@@ -1,0 +1,28 @@
+h2{
+    font-family: Helvetica, sans-serif;
+    color: darkgray;
+    font-weight: 800;
+    background-color: antiquewhite;
+}
+
+table{
+    width:800px;
+   
+    
+    
+}
+
+th{
+    text-align: left;
+}
+
+table,th,td{
+    border:1px solid;
+    border-bottom-color: cornsilk;
+    border-collapse: collapse;
+    border-color: antiquewhite;
+}
+tr:nth-child(even){
+    background-color: antiquewhite;
+}
+

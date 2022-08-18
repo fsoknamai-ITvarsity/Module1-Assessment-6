@@ -1,0 +1,49 @@
+h2{
+    font-family: Helvetica, sans-serif;
+    font-weight: 800;
+    color: darkgray;
+    background-color: antiquewhite;
+    margin:auto;
+    padding:inherit;    
+}
+
+body{
+    background-color: antiquewhite;
+} 
+
+#main home{
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 500;
+    width: 100%;
+    background-image: url(images/makeup-christmas-time-web-banner-brush-hand-crafted-gift-box-wood-background-giving-as-present-new-year-other-161932959.jpg);
+    background-repeat: repeat-x;
+    background-repeat: repeat-x;
+}
+
+#tabs-bottom a{
+    float: 5%;
+    display:inline-block;
+    width: 100%;
+    height: 100%;
+    font-weight: 700;
+    background-color: antiquewhite;
+    text-align: center;
+    text-decoration: none;
+    color: darkgray;
+    font-family: Helvetica, sans-serif;
+    font-weight: 800;
+    padding-top: 2%;    
+}
+
+h{
+    background-color: antiquewhite;
+}
+
+a{
+    font-family: Helvetica, sans-serif;
+    color:coral;
+    text-decoration:none;
+    font-weight:800;
+}
